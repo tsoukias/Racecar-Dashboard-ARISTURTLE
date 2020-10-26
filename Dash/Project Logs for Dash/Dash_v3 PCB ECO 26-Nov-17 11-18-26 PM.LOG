@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Net6473418-2_1_4 Pin=Pinout-63
+Removed Pin From Net: NetName=Net6473418-2_1_3 Pin=Pinout-64
+Added Pin To Net: NetName=Net6473418-2_1_3 Pin=A5-1
+Added Pin To Net: NetName=Net6473418-2_1_3 Pin=Pinout-7
+Added Pin To Net: NetName=Net6473418-2_1_4 Pin=Pinout-64
+Added Pin To Net: NetName=Net6473418-2_1_2 Pin=6473418-2_1-2
+Added Pin To Net: NetName=Net6473418-2_1_2 Pin=A4-1
+Added Pin To Net: NetName=Net6473418-2_1_2 Pin=Pinout-6
+Added Net: Name=Net6473418-2_1_2
+Added Pin To Net: NetName=Net6473418-2_1_5 Pin=6473418-2_1-5
+Added Pin To Net: NetName=Net6473418-2_1_5 Pin=Pinout-63
+Added Net: Name=Net6473418-2_1_5

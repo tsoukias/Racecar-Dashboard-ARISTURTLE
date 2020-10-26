@@ -1,0 +1,17 @@
+Added Component: Designator=Display(Molex nano-fit 8pin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Display-1
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Display-2
+Added Pin To Net: NetName=12V Pin=Display-5
+Added Pin To Net: NetName=VCC_2 Pin=Display-6
+Added Pin To Net: NetName=GND Pin=Display-7
+Added Pin To Net: NetName=GND Pin=Display-8
+Change Net Name : Old Net Name=NetMain Connector_1 New Net Name=NetDisplay_1
+Change Net Name : Old Net Name=NetMain Connector_2 New Net Name=NetDisplay_2
+Added Pin To Net: NetName=NetDisplay_3 Pin=Display-3
+Added Pin To Net: NetName=NetDisplay_3 Pin=Pinout-24
+Added Net: Name=NetDisplay_3
+Added Pin To Net: NetName=NetDisplay_4 Pin=Display-4
+Added Pin To Net: NetName=NetDisplay_4 Pin=Pinout-25
+Added Net: Name=NetDisplay_4
+Added Member To Class: ClassName=Dash Member=Component Display 8-pin-molex-nano

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=Steering-1
+Removed Pin From Net: NetName=VCC Pin=Steering-3
+Added Pin To Net: NetName=VCC Pin=Steering-1
+Added Pin To Net: NetName=12V Pin=Steering-2
+Added Pin To Net: NetName=GND Pin=Steering-3

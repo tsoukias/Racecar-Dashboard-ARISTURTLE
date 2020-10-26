@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=VCC Pin=8pin-molex-ultra-7
+Removed Pin From Net: NetName=GND Pin=8pin-molex-ultra-8
+Removed Pin From Net: NetName=Net6473418-2_9 Pin=6473418-2-9
+Removed Pin From Net: NetName=Net6473418-2_9 Pin=6473418-2-9
+Removed Pin From Net: NetName=Net6473418-2_10 Pin=6473418-2-10
+Removed Pin From Net: NetName=Net6473418-2_11 Pin=6473418-2-11
+Removed Pin From Net: NetName=BMS_Signal Pin=6473418-2-25
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=12V Pin=R7-1
+Removed Member From Class: ClassName=Dash Member=8pin-molex-ultra
+Removed Member From Class: ClassName=Dash Member=C7
+Removed Member From Class: ClassName=Dash Member=R7
+Added Component: Designator=4-pin-molex-ultra(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=4-pin-molex-ultra-3
+Added Pin To Net: NetName=GND Pin=4-pin-molex-ultra-4
+Added Pin To Net: NetName=BMS_Signal Pin=6473418-2-22
+Change Net Name : Old Net Name=Net6473418-2_9 New Net Name=Netc25_1
+Change Net Name : Old Net Name=Net6473418-2_10 New Net Name=Netc26_1
+Change Net Name : Old Net Name=Net6473418-2_11 New Net Name=Netc27_1
+Added Pin To Net: NetName=Net4-pin-molex-ultra_1 Pin=4-pin-molex-ultra-1
+Added Pin To Net: NetName=Net4-pin-molex-ultra_1 Pin=Pinout-24
+Added Net: Name=Net4-pin-molex-ultra_1
+Added Pin To Net: NetName=Net4-pin-molex-ultra_2 Pin=4-pin-molex-ultra-2
+Added Pin To Net: NetName=Net4-pin-molex-ultra_2 Pin=Pinout-25
+Added Net: Name=Net4-pin-molex-ultra_2
+Added Pin To Net: NetName=NetH_P_LED_1_1 Pin=H_P_LED_1-1
+Added Pin To Net: NetName=NetH_P_LED_1_1 Pin=R44-1
+Added Net: Name=NetH_P_LED_1_1
+Added Pin To Net: NetName=NetH_P_LED_2_1 Pin=H_P_LED_2-1
+Added Pin To Net: NetName=NetH_P_LED_2_1 Pin=R45-1
+Added Net: Name=NetH_P_LED_2_1
+Added Pin To Net: NetName=NetH_P_LED_3_1 Pin=H_P_LED_3-1
+Added Pin To Net: NetName=NetH_P_LED_3_1 Pin=R46-1
+Added Net: Name=NetH_P_LED_3_1
+Added Pin To Net: NetName=NetPinout_38 Pin=Pinout-38
+Added Net: Name=NetPinout_38
+Added Pin To Net: NetName=NetPinout_39 Pin=Pinout-39
+Added Net: Name=NetPinout_39
+Added Pin To Net: NetName=NetPinout_55 Pin=Pinout-55
+Added Net: Name=NetPinout_55
+Added Member To Class: ClassName=Dash Member=Component 4-pin-molex-ultra 172316-1104
+Added Room: Name=Dash

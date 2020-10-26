@@ -1,0 +1,51 @@
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_1 Pin=B1-4
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=NetB2_1 Pin=B2-4
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=GND Pin=B3-2
+Added Pin To Net: NetName=NetB3_3 Pin=B3-3
+Added Pin To Net: NetName=NetB3_1 Pin=B3-4
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=NetB1_1 Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=NetB2_1 Pin=R9-1
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=NetB3_1 Pin=R10-1
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=NetC15_1 Pin=R25-1
+Added Pin To Net: NetName=NetB3_1 Pin=R25-2
+Added Pin To Net: NetName=NetC16_1 Pin=R26-1
+Added Pin To Net: NetName=NetB2_1 Pin=R26-2
+Added Pin To Net: NetName=NetC17_1 Pin=R27-1
+Added Pin To Net: NetName=NetB1_1 Pin=R27-2
+Added Pin To Net: NetName=NetB1_3 Pin=R47-1
+Added Pin To Net: NetName=VCC Pin=R47-2
+Added Pin To Net: NetName=NetB2_3 Pin=R48-1
+Added Pin To Net: NetName=VCC Pin=R48-2
+Added Pin To Net: NetName=NetB3_3 Pin=R49-1
+Added Pin To Net: NetName=VCC Pin=R49-2
+Added Member To Class: ClassName=Dash Member=Component B1 R13-405
+Added Member To Class: ClassName=Dash Member=Component B2 R13-405
+Added Member To Class: ClassName=Dash Member=Component B3 R13-405
+Added Member To Class: ClassName=Dash Member=Component C15 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component C16 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component C17 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component R8 0805
+Added Member To Class: ClassName=Dash Member=Component R9 0805
+Added Member To Class: ClassName=Dash Member=Component R10 0805
+Added Member To Class: ClassName=Dash Member=Component R25 0805
+Added Member To Class: ClassName=Dash Member=Component R26 0805
+Added Member To Class: ClassName=Dash Member=Component R27 0805
+Added Member To Class: ClassName=Dash Member=Component R47 0805
+Added Member To Class: ClassName=Dash Member=Component R48 0805
+Added Member To Class: ClassName=Dash Member=Component R49 0805

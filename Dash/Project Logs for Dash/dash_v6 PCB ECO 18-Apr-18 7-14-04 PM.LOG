@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetMain Connector_6 Pin=Pinout-27
+Removed Pin From Net: NetName=NetMain Connector_11 Pin=Pinout-54
+Removed Pin From Net: NetName=NetMain Connector_19 Pin=Pinout-55
+Added Pin To Net: NetName=NetMain Connector_11 Pin=Pinout-27
+Added Pin To Net: NetName=NetMain Connector_19 Pin=Pinout-54
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Pinout-55

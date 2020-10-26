@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IMD_OR Pin=ULN2004ADR_1-5
+Removed Pin From Net: NetName=Netc26_1 Pin=ULN2004ADR_1-12
+Added Pin To Net: NetName=IMD_OR Pin=ULN2004ADR_1-7
+Added Pin To Net: NetName=Netc26_1 Pin=ULN2004ADR_1-10

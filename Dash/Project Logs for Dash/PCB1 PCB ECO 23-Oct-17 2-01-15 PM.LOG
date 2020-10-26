@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_1 Pin=Pinout-54
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_2 Pin=Pinout-55
+Change Component Designator: OldDesignator=LED1 NewDesignator=H_P_LED_1
+Change Component Designator: OldDesignator=LED2 NewDesignator=H_P_LED_2
+Change Component Designator: OldDesignator=LED3 NewDesignator=H_P_LED_3
+Change Component Designator: OldDesignator=OR1 NewDesignator=OR _GATE_1
+Change Component Designator: OldDesignator=OR2 NewDesignator=OR _GATE_2
+Change Component Designator: OldDesignator=OR3 NewDesignator=OR _GATE_3
+Change Component Designator: OldDesignator=XOR1 NewDesignator=XOR _GATE_1
+Change Component Designator: OldDesignator=XOR 2 NewDesignator=XOR _GATE_2
+Change Component Designator: OldDesignator=XOR3 NewDesignator=XOR _GATE_3
+Added Pin To Net: NetName=Net4-pin-molex-ultra_2 Pin=Pinout-54
+Added Pin To Net: NetName=Net4-pin-molex-ultra_1 Pin=Pinout-55
+Added Room: Name=Dash

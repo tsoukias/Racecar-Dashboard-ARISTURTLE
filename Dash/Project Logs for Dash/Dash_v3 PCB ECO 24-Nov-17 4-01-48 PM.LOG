@@ -1,0 +1,15 @@
+Added Component: Designator=Steering(Steering)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net6473418-2_22 Pin=Steering-1
+Added Pin To Net: NetName=Net6473418-2_23 Pin=Steering-2
+Added Pin To Net: NetName=Net6473418-2_24 Pin=Steering-3
+Added Pin To Net: NetName=Net6473418-2_25 Pin=Steering-4
+Added Pin To Net: NetName=12V Pin=Steering-5
+Added Pin To Net: NetName=NetC1_1 Pin=Steering-8
+Added Pin To Net: NetName=NetC2_1 Pin=Steering-9
+Added Pin To Net: NetName=NetC3_1 Pin=Steering-10
+Added Pin To Net: NetName=NetC4_1 Pin=Steering-11
+Added Pin To Net: NetName=NetC5_1 Pin=Steering-12
+Added Member To Class: ClassName=Dash Member=Component Steering 1-776266-1
+Added Room: Name=Dash
+Added Room: Name=Turtlelogger

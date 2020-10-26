@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Main Connector-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Pinout-40
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Steering-4
+Added Net: Name=NetMain Connector_1
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Main Connector-2
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Pinout-41
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Steering-7
+Added Net: Name=NetMain Connector_2

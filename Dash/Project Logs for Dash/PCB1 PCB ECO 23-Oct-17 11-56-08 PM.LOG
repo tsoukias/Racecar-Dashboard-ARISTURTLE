@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net6473418-2_11 Pin=A5-1
+Removed Pin From Net: NetName=Net6473418-2_18 Pin=A6-1
+Removed Pin From Net: NetName=Net6473418-2_11 Pin=Pinout-7
+Removed Pin From Net: NetName=Net6473418-2_18 Pin=Pinout-8
+Added Pin To Net: NetName=Net6473418-2_18 Pin=A5-1
+Added Pin To Net: NetName=Net6473418-2_11 Pin=A6-1
+Added Pin To Net: NetName=Net6473418-2_18 Pin=Pinout-7
+Added Pin To Net: NetName=Net6473418-2_11 Pin=Pinout-8
+Added Room: Name=Dash

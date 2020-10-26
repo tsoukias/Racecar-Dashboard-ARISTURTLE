@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=12V Pin=H_P_LED_1-1
+Added Pin To Net: NetName=NetH_P_LED_1_2 Pin=H_P_LED_1-2
+Added Pin To Net: NetName=NetH_P_LED_2_1 Pin=H_P_LED_2-1
+Added Pin To Net: NetName=Netc26_1 Pin=H_P_LED_2-2
+Added Pin To Net: NetName=NetH_P_LED_3_1 Pin=H_P_LED_3-1
+Added Pin To Net: NetName=Netc27_1 Pin=H_P_LED_3-2
+Added Member To Class: ClassName=Dash Member=Component H_P_LED_1 LTH3MM12VFR4100
+Added Member To Class: ClassName=Dash Member=Component H_P_LED_2 LTH3MM12VFR4100
+Added Member To Class: ClassName=Dash Member=Component H_P_LED_3 LTH3MM12VFR4100

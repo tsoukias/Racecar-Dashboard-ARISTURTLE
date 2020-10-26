@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Main Connector-14
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Pinout-5
+Added Net: Name=NetMain Connector_14
+Added Member To Class: ClassName=Dash Member=Component Main Connector 1-776230-1

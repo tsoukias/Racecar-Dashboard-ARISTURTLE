@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=H? NewDesignator=H1
+Added Component: Designator=H2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=H2-12
+Added Pin To Net: NetName=VCC_2 Pin=H2-19
+Added Pin To Net: NetName=VCC_2 Pin=H2-20
+Added Pin To Net: NetName=VCC_2 Pin=H2-21
+Added Pin To Net: NetName=VCC_2 Pin=H2-22
+Added Pin To Net: NetName=NetA0_1 Pin=A0-1
+Added Pin To Net: NetName=NetA0_1 Pin=H2-8
+Added Pin To Net: NetName=NetA0_1 Pin=Pinout-2
+Added Net: Name=NetA0_1
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=H2-9
+Added Pin To Net: NetName=NetA1_1 Pin=Pinout-3
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA2_1 Pin=A2-1
+Added Pin To Net: NetName=NetA2_1 Pin=H2-10
+Added Pin To Net: NetName=NetA2_1 Pin=Pinout-4
+Added Net: Name=NetA2_1
+Added Pin To Net: NetName=NetA3_1 Pin=A3-1
+Added Pin To Net: NetName=NetA3_1 Pin=H2-1
+Added Pin To Net: NetName=NetA3_1 Pin=Pinout-5
+Added Net: Name=NetA3_1
+Added Pin To Net: NetName=NetA4_1 Pin=A4-1
+Added Pin To Net: NetName=NetA4_1 Pin=H2-2
+Added Pin To Net: NetName=NetA4_1 Pin=Pinout-6
+Added Net: Name=NetA4_1
+Added Pin To Net: NetName=NetA5_1 Pin=A5-1
+Added Pin To Net: NetName=NetA5_1 Pin=H2-3
+Added Pin To Net: NetName=NetA5_1 Pin=Pinout-7
+Added Net: Name=NetA5_1
+Added Pin To Net: NetName=NetA6_1 Pin=A6-1
+Added Pin To Net: NetName=NetA6_1 Pin=H2-6
+Added Pin To Net: NetName=NetA6_1 Pin=Pinout-8
+Added Net: Name=NetA6_1
+Added Pin To Net: NetName=NetA7_1 Pin=A7-1
+Added Pin To Net: NetName=NetA7_1 Pin=H2-7
+Added Pin To Net: NetName=NetA7_1 Pin=Pinout-9
+Added Net: Name=NetA7_1
+Added Pin To Net: NetName=NetA8_2 Pin=A8-2
+Added Pin To Net: NetName=NetA8_2 Pin=H2-11
+Added Pin To Net: NetName=NetA8_2 Pin=Pinout-10
+Added Net: Name=NetA8_2
+Added Pin To Net: NetName=NetA9_2 Pin=A9-2
+Added Pin To Net: NetName=NetA9_2 Pin=H2-13
+Added Pin To Net: NetName=NetA9_2 Pin=Pinout-11
+Added Net: Name=NetA9_2
+Added Pin To Net: NetName=NetA10_2 Pin=A10-2
+Added Pin To Net: NetName=NetA10_2 Pin=H2-14
+Added Pin To Net: NetName=NetA10_2 Pin=Pinout-12
+Added Net: Name=NetA10_2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=H2-18
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=NetH2_4 Pin=Pinout-64
+Added Net: Name=NetH2_4
+Added Pin To Net: NetName=NetH2_5 Pin=H2-5
+Added Pin To Net: NetName=NetH2_5 Pin=Pinout-63
+Added Net: Name=NetH2_5
+Added Pin To Net: NetName=NetH2_15 Pin=H2-15
+Added Pin To Net: NetName=NetH2_15 Pin=MCP-7
+Added Net: Name=NetH2_15
+Added Pin To Net: NetName=NetH2_16 Pin=H2-16
+Added Pin To Net: NetName=NetH2_16 Pin=MCP-6
+Added Net: Name=NetH2_16
+Added Member To Class: ClassName=Dash Member=Component H2 1-776200-1

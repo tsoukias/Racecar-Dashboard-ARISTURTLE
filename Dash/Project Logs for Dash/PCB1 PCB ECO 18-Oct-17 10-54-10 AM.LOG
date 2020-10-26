@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=BMS_Signal Pin=6473418-2-22
+Removed Pin From Net: NetName=Net6473418-2_23 Pin=Pinout-55
+Added Pin To Net: NetName=BMS_Signal Pin=6473418-2-25
+Added Pin To Net: NetName=Net6473418-2_23 Pin=R45-1
+Added Pin To Net: NetName=Net6473418-2_8 Pin=6473418-2-8
+Added Pin To Net: NetName=Net6473418-2_8 Pin=6473418-2-8
+Added Pin To Net: NetName=Net6473418-2_8 Pin=Pinout-55
+Added Net: Name=Net6473418-2_8
+Added Pin To Net: NetName=Net6473418-2_9 Pin=6473418-2-9
+Added Pin To Net: NetName=Net6473418-2_9 Pin=6473418-2-9
+Added Pin To Net: NetName=Net6473418-2_9 Pin=c25-1
+Added Pin To Net: NetName=Net6473418-2_9 Pin=ULN2004ADR_1-16
+Added Net: Name=Net6473418-2_9
+Added Pin To Net: NetName=Net6473418-2_10 Pin=6473418-2-10
+Added Pin To Net: NetName=Net6473418-2_10 Pin=c26-1
+Added Pin To Net: NetName=Net6473418-2_10 Pin=ULN2004ADR_1-13
+Added Net: Name=Net6473418-2_10
+Added Pin To Net: NetName=Net6473418-2_11 Pin=6473418-2-11
+Added Pin To Net: NetName=Net6473418-2_11 Pin=c27-1
+Added Pin To Net: NetName=Net6473418-2_11 Pin=ULN2004ADR_1-10
+Added Net: Name=Net6473418-2_11
+Added Pin To Net: NetName=Net6473418-2_22 Pin=6473418-2-22
+Added Pin To Net: NetName=Net6473418-2_22 Pin=R44-1
+Added Net: Name=Net6473418-2_22
+Added Pin To Net: NetName=Net6473418-2_24 Pin=6473418-2-24
+Added Pin To Net: NetName=Net6473418-2_24 Pin=R46-1
+Added Net: Name=Net6473418-2_24
+Added Room: Name=Dash

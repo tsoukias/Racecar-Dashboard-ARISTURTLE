@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetH2_1 Pin=Pinout-48
+Removed Pin From Net: NetName=NetH2_2 Pin=Pinout-49
+Removed Pin From Net: NetName=NetH2_3 Pin=Pinout-50
+Removed Pin From Net: NetName=NetH2_4 Pin=Pinout-51
+Added Pin To Net: NetName=NetH2_4 Pin=Pinout-48
+Added Pin To Net: NetName=NetH2_3 Pin=Pinout-49
+Added Pin To Net: NetName=NetH2_2 Pin=Pinout-50
+Added Pin To Net: NetName=NetH2_1 Pin=Pinout-51

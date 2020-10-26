@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=VCC Pin=R11-2
+Removed Member From Class: ClassName=Dash Member=C14
+Removed Member From Class: ClassName=Dash Member=R11
+Removed Member From Class: ClassName=Dash Member=R24
+Added Pin To Net: NetName=NetPinout_21 Pin=Pinout-21
+Added Net: Name=NetPinout_21
+Added Member To Class: ClassName=Dash Member=Component C11 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component R14 0805
+Added Member To Class: ClassName=Dash Member=Component R21 0805

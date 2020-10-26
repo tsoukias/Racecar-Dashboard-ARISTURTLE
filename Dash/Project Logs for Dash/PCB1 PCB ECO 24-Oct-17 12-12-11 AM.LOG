@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=Net6473418-2_20 Pin=6473418-2-20
+Added Pin To Net: NetName=Net6473418-2_20 Pin=C1-1
+Added Pin To Net: NetName=Net6473418-2_20 Pin=R1-2
+Added Net: Name=Net6473418-2_20
+Added Pin To Net: NetName=Net6473418-2_21 Pin=6473418-2-21
+Added Pin To Net: NetName=Net6473418-2_21 Pin=C2-1
+Added Pin To Net: NetName=Net6473418-2_21 Pin=R2-2
+Added Net: Name=Net6473418-2_21
+Added Pin To Net: NetName=Net6473418-2_22 Pin=6473418-2-22
+Added Pin To Net: NetName=Net6473418-2_22 Pin=C3-1
+Added Pin To Net: NetName=Net6473418-2_22 Pin=R3-2
+Added Net: Name=Net6473418-2_22
+Added Pin To Net: NetName=Net6473418-2_23 Pin=6473418-2-23
+Added Pin To Net: NetName=Net6473418-2_23 Pin=C4-1
+Added Pin To Net: NetName=Net6473418-2_23 Pin=R4-2
+Added Net: Name=Net6473418-2_23
+Added Pin To Net: NetName=Net6473418-2_24 Pin=6473418-2-24
+Added Pin To Net: NetName=Net6473418-2_24 Pin=C5-1
+Added Pin To Net: NetName=Net6473418-2_24 Pin=R5-2
+Added Net: Name=Net6473418-2_24
+Added Pin To Net: NetName=Net6473418-2_25 Pin=6473418-2-25
+Added Pin To Net: NetName=Net6473418-2_25 Pin=C6-1
+Added Pin To Net: NetName=Net6473418-2_25 Pin=R6-2
+Added Net: Name=Net6473418-2_25
+Added Room: Name=Dash

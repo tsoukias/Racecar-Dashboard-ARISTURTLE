@@ -1,0 +1,39 @@
+Added Pin To Net: NetName=Net6473418-2_7 Pin=6473418-2-7
+Added Pin To Net: NetName=Net6473418-2_7 Pin=A0-1
+Added Pin To Net: NetName=Net6473418-2_7 Pin=Pinout-2
+Added Net: Name=Net6473418-2_7
+Added Pin To Net: NetName=Net6473418-2_8 Pin=6473418-2-8
+Added Pin To Net: NetName=Net6473418-2_8 Pin=6473418-2-8
+Added Pin To Net: NetName=Net6473418-2_8 Pin=A1-1
+Added Pin To Net: NetName=Net6473418-2_8 Pin=Pinout-3
+Added Net: Name=Net6473418-2_8
+Added Pin To Net: NetName=Net6473418-2_9 Pin=6473418-2-9
+Added Pin To Net: NetName=Net6473418-2_9 Pin=6473418-2-9
+Added Pin To Net: NetName=Net6473418-2_9 Pin=A2-1
+Added Pin To Net: NetName=Net6473418-2_9 Pin=Pinout-4
+Added Net: Name=Net6473418-2_9
+Added Pin To Net: NetName=Net6473418-2_10 Pin=6473418-2-10
+Added Pin To Net: NetName=Net6473418-2_10 Pin=A3-1
+Added Pin To Net: NetName=Net6473418-2_10 Pin=Pinout-5
+Added Net: Name=Net6473418-2_10
+Added Pin To Net: NetName=Net6473418-2_11 Pin=6473418-2-11
+Added Pin To Net: NetName=Net6473418-2_11 Pin=A4-1
+Added Pin To Net: NetName=Net6473418-2_11 Pin=Pinout-6
+Added Net: Name=Net6473418-2_11
+Added Pin To Net: NetName=Net6473418-2_12 Pin=6473418-2-12
+Added Pin To Net: NetName=Net6473418-2_12 Pin=A5-1
+Added Pin To Net: NetName=Net6473418-2_12 Pin=Pinout-7
+Added Net: Name=Net6473418-2_12
+Added Pin To Net: NetName=Net6473418-2_13 Pin=6473418-2-13
+Added Pin To Net: NetName=Net6473418-2_13 Pin=A6-1
+Added Pin To Net: NetName=Net6473418-2_13 Pin=Pinout-8
+Added Net: Name=Net6473418-2_13
+Added Pin To Net: NetName=Net6473418-2_23 Pin=6473418-2-23
+Added Pin To Net: NetName=Net6473418-2_23 Pin=A7-1
+Added Pin To Net: NetName=Net6473418-2_23 Pin=Pinout-9
+Added Net: Name=Net6473418-2_23
+Added Pin To Net: NetName=Net6473418-2_24 Pin=6473418-2-24
+Added Pin To Net: NetName=Net6473418-2_24 Pin=A8-2
+Added Pin To Net: NetName=Net6473418-2_24 Pin=Pinout-10
+Added Net: Name=Net6473418-2_24
+Added Room: Name=Dash

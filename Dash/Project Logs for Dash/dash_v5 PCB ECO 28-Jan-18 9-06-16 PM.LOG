@@ -1,0 +1,39 @@
+Added Component: Designator=c91(CAPC2012X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15pF"; VariantName = "[No Variations]"
+Added Component: Designator=H_P_LED_4(H_P_LED_?)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R94(RESC2012X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "2012 [0805]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "6-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=c91-2
+Added Pin To Net: NetName=BSPD_Signal Pin=H?-15
+Added Pin To Net: NetName=12V Pin=R94-2
+Added Pin To Net: NetName=BSPD_OR Pin=ULN2004ADR_1-4
+Added Pin To Net: NetName=Netc91_1 Pin=c91-1
+Added Pin To Net: NetName=Netc91_1 Pin=H_P_LED_4-2
+Added Pin To Net: NetName=Netc91_1 Pin=ULN2004ADR_1-13
+Added Net: Name=Netc91_1
+Added Pin To Net: NetName=NetH_P_LED_4_1 Pin=H_P_LED_4-1
+Added Pin To Net: NetName=NetH_P_LED_4_1 Pin=R94-1
+Added Net: Name=NetH_P_LED_4_1
+Added Member To Class: ClassName=Dash Member=Component c91 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component H_P_LED_4 LTH3MM12VFR4100
+Added Member To Class: ClassName=Dash Member=Component R94 0805

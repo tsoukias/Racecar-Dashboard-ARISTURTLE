@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Net14-pin_12 Pin=6473418-2_1-3
+Removed Pin From Net: NetName=Net14-pin_12 Pin=C4-1
+Removed Pin From Net: NetName=Net14-pin_12 Pin=R4-2
+Added Pin To Net: NetName=Net14-pin_8 Pin=C1-1
+Added Pin To Net: NetName=Net14-pin_9 Pin=C2-1
+Added Pin To Net: NetName=Net14-pin_10 Pin=C3-1
+Added Pin To Net: NetName=Net14-pin_11 Pin=C4-1
+Added Pin To Net: NetName=Net14-pin_12 Pin=C5-1
+Added Pin To Net: NetName=Net14-pin_8 Pin=R1-2
+Added Pin To Net: NetName=Net14-pin_9 Pin=R2-2
+Added Pin To Net: NetName=Net14-pin_10 Pin=R3-2
+Added Pin To Net: NetName=Net14-pin_11 Pin=R4-2
+Added Pin To Net: NetName=Net14-pin_12 Pin=R5-2
+Added Room: Name=Dash

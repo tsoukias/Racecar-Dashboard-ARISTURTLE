@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=DC/DC_5V_7.5W NewDesignator=DC/DC
+Change Component Designator: OldDesignator=DC_DC_12V_2W NewDesignator=DC/DC
+Change Component Designator: OldDesignator=U1 NewDesignator=DC/DC

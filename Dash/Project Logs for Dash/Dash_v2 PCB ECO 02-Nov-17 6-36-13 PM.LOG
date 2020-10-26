@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=24V Pin=6473418-2_1-1
+Removed Pin From Net: NetName=24V Pin=6473418-2_1-13
+Change Component Designator: OldDesignator=OR1 NewDesignator=OR _GATE_1
+Change Component Designator: OldDesignator=OR2 NewDesignator=OR _GATE_2
+Change Component Designator: OldDesignator=OR3 NewDesignator=OR _GATE_3
+Change Component Designator: OldDesignator=XOR1 NewDesignator=XOR _GATE_1
+Change Component Designator: OldDesignator=XOR2 NewDesignator=XOR _GATE_2
+Change Component Designator: OldDesignator=XOR3 NewDesignator=XOR _GATE_3

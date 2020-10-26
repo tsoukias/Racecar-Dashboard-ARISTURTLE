@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetMain Connector_5 Pin=Main Connector-5
+Added Pin To Net: NetName=NetMain Connector_5 Pin=Pinout-58
+Added Pin To Net: NetName=NetMain Connector_5 Pin=Programming-8
+Added Net: Name=NetMain Connector_5

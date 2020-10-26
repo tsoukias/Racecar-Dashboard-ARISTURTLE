@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=Net6473418-2_1_25 Pin=6473418-2_1-25
+Added Pin To Net: NetName=Net6473418-2_1_25 Pin=MCP-7
+Added Net: Name=Net6473418-2_1_25
+Added Pin To Net: NetName=Net6473418-2_1_26 Pin=6473418-2_1-26
+Added Pin To Net: NetName=Net6473418-2_1_26 Pin=MCP-6
+Added Net: Name=Net6473418-2_1_26
+Added Member To Class: ClassName=Turtlelogger Member=Component esp doit_devkit_1

@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetFB Button_2 Pin=Main Connector-10
+Added Pin To Net: NetName=NetFB Button_1 Pin=Main Connector-11
+Added Pin To Net: NetName=NetMain Connector_3 Pin=Main Connector-3
+Added Pin To Net: NetName=NetMain Connector_3 Pin=Pinout-64
+Added Net: Name=NetMain Connector_3
+Added Pin To Net: NetName=NetMain Connector_4 Pin=Main Connector-4
+Added Pin To Net: NetName=NetMain Connector_4 Pin=Pinout-63
+Added Net: Name=NetMain Connector_4
+Added Pin To Net: NetName=NetMain Connector_23 Pin=Main Connector-23
+Added Pin To Net: NetName=NetMain Connector_23 Pin=ShutdownButton-1
+Added Net: Name=NetMain Connector_23

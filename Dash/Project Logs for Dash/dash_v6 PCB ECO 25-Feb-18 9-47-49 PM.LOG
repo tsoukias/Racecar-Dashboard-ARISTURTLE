@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=MCP-2
+Removed Pin From Net: NetName=VCC Pin=MCP-3
+Removed Pin From Net: NetName=NetMain Connector_35 Pin=MCP-6
+Removed Pin From Net: NetName=NetMain Connector_23 Pin=MCP-7
+Removed Pin From Net: NetName=GND Pin=R51-1
+Removed Pin From Net: NetName=VCC Pin=R58-1
+Removed Pin From Net: NetName=GND Pin=SD_Connector-6
+Removed Pin From Net: NetName=GND Pin=SD_connector_smd-6
+Removed Pin From Net: NetName=GND Pin=SD_connector_smd-9

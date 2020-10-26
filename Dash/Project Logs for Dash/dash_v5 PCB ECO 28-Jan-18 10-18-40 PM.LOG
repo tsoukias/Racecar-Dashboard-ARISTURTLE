@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=2pin-molex_buzzer NewDesignator=buzzer
+Change Component Designator: OldDesignator=Buffer1 NewDesignator=Buf2
+Change Component Designator: OldDesignator=Buffer2 NewDesignator=Buf
+Change Component Designator: OldDesignator=F1 NewDesignator=Fuse
+Change Component Designator: OldDesignator=H? NewDesignator=Main Connector
+Change Component Designator: OldDesignator=H_P_LED_1 NewDesignator=DTL
+Change Component Designator: OldDesignator=H_P_LED_2 NewDesignator=IMD
+Change Component Designator: OldDesignator=H_P_LED_3 NewDesignator=BMS
+Change Component Designator: OldDesignator=H_P_LED_4 NewDesignator=BSPD
+Change Component Designator: OldDesignator=NPN BJT NewDesignator=npn
+Change Component Designator: OldDesignator=PNP BJT NewDesignator=pnp
+Change Component Designator: OldDesignator=ULN2004ADR2 NewDesignator=U2
+Change Component Designator: OldDesignator=ULN2004ADR_1 NewDesignator=U1
+Change Net Name : Old Net Name=Net2pin-molex_buzzer_1 New Net Name=Netbuzzer_1
+Change Net Name : Old Net Name=NetBuffer1_2 New Net Name=NetBuf2_2
+Change Net Name : Old Net Name=NetBuffer2_2 New Net Name=NetBuf_2
+Change Net Name : Old Net Name=NetBuffer2_4 New Net Name=NetBuf_4
+Change Net Name : Old Net Name=Netc27_1 New Net Name=NetBMS_2
+Change Net Name : Old Net Name=Netc91_1 New Net Name=NetBSPD_2
+Change Net Name : Old Net Name=NetF1_2 New Net Name=NetFuse_2
+Change Net Name : Old Net Name=NetH?_19 New Net Name=NetMain Connector_19
+Change Net Name : Old Net Name=NetH?_20 New Net Name=NetMain Connector_20
+Change Net Name : Old Net Name=NetH?_21 New Net Name=NetMain Connector_21
+Change Net Name : Old Net Name=NetH?_22 New Net Name=NetMain Connector_22
+Change Net Name : Old Net Name=NetH?_23 New Net Name=NetMain Connector_23
+Change Net Name : Old Net Name=NetH?_24 New Net Name=NetMain Connector_24
+Change Net Name : Old Net Name=NetH?_25 New Net Name=NetMain Connector_25
+Change Net Name : Old Net Name=NetH?_26 New Net Name=NetMain Connector_26
+Change Net Name : Old Net Name=NetH?_27 New Net Name=NetMain Connector_27
+Change Net Name : Old Net Name=NetH?_28 New Net Name=NetMain Connector_28
+Change Net Name : Old Net Name=NetH?_35 New Net Name=NetMain Connector_35
+Change Net Name : Old Net Name=NetH_P_LED_2_1 New Net Name=NetIMD_1
+Change Net Name : Old Net Name=NetH_P_LED_3_1 New Net Name=NetBMS_1
+Change Net Name : Old Net Name=NetH_P_LED_4_1 New Net Name=NetBSPD_1
+Change Net Name : Old Net Name=NetNPN BJT_1 New Net Name=Netnpn_1
+Change Net Name : Old Net Name=NetPNP BJT_1 New Net Name=Netpnp_1
+Change Net Name : Old Net Name=NetPNP BJT_3 New Net Name=Netpnp_3

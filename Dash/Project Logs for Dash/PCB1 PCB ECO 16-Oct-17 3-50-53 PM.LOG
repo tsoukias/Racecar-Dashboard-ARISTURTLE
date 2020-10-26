@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=ULN2004ADR1 Old Footprint=PCBComponent_1 New Footprint=ULN2004ADR
+Change Component Footprint: Designator=ULN2004ADR2 Old Footprint=PCBComponent_1 New Footprint=ULN2004ADR
+Added Pin To Net: NetName=12V Pin=ULN2004ADR1-9
+Added Pin To Net: NetName=NetC27_1 Pin=ULN2004ADR1-10
+Added Pin To Net: NetName=NetC26_1 Pin=ULN2004ADR1-13
+Added Pin To Net: NetName=Enable_Relay Pin=ULN2004ADR1-15
+Added Pin To Net: NetName=NetC25_1 Pin=ULN2004ADR1-16
+Added Pin To Net: NetName=12V Pin=ULN2004ADR2-9
+Added Pin To Net: NetName=Net8pin-molex-ultra_5 Pin=ULN2004ADR2-10
+Added Pin To Net: NetName=Net6473418-2_6 Pin=ULN2004ADR2-11
+Added Pin To Net: NetName=Net6473418-2_5 Pin=ULN2004ADR2-12
+Added Pin To Net: NetName=Net6473418-2_4 Pin=ULN2004ADR2-13
+Added Pin To Net: NetName=Net6473418-2_3 Pin=ULN2004ADR2-14
+Added Pin To Net: NetName=Net6473418-2_2 Pin=ULN2004ADR2-15
+Added Pin To Net: NetName=Net6473418-2_1 Pin=ULN2004ADR2-16
+Added Room: Name=Dash

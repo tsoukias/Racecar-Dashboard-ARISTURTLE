@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetPinout_20 Pin=ULN2004ADR2-1
+Removed Pin From Net: NetName=NetPinout_35 Pin=ULN2004ADR2-2
+Removed Pin From Net: NetName=NetPinout_34 Pin=ULN2004ADR2-3
+Removed Pin From Net: NetName=NetPinout_33 Pin=ULN2004ADR2-4
+Removed Pin From Net: NetName=NetPinout_32 Pin=ULN2004ADR2-5
+Removed Pin From Net: NetName=NetPinout_31 Pin=ULN2004ADR2-6
+Added Pin To Net: NetName=NetPinout_35 Pin=ULN2004ADR2-1
+Added Pin To Net: NetName=NetPinout_34 Pin=ULN2004ADR2-2
+Added Pin To Net: NetName=NetPinout_33 Pin=ULN2004ADR2-3
+Added Pin To Net: NetName=NetPinout_32 Pin=ULN2004ADR2-4
+Added Pin To Net: NetName=NetPinout_31 Pin=ULN2004ADR2-5
+Added Pin To Net: NetName=NetPinout_20 Pin=ULN2004ADR2-6

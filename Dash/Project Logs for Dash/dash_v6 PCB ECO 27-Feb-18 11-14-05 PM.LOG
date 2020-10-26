@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetFuse_2 Pin=Fuse-2
+Added Pin To Net: NetName=NetFuse_2 Pin=Main Connector-12
+Added Net: Name=NetFuse_2
+Added Room: Name=Dash

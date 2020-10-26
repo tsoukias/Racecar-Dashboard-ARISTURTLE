@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC_2 Pin=6473418-2_1-1
+Removed Pin From Net: NetName=VCC_2 Pin=6473418-2_1-2
+Removed Pin From Net: NetName=VCC_2 Pin=6473418-2_1-3
+Removed Pin From Net: NetName=VCC_2 Pin=6473418-2_1-4
+Added Pin To Net: NetName=VCC_2 Pin=6473418-2_1-21
+Added Pin To Net: NetName=VCC_2 Pin=6473418-2_1-22
+Added Pin To Net: NetName=VCC_2 Pin=6473418-2_1-23
+Added Pin To Net: NetName=VCC_2 Pin=6473418-2_1-24

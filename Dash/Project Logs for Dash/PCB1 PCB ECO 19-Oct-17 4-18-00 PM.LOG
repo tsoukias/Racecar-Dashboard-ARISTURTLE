@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=DC_DC_5V_2W_1-1
+Removed Pin From Net: NetName=24V Pin=DC_DC_5V_2W_1-2
+Removed Pin From Net: NetName=GND Pin=DC_DC_5V_2W_1-3
+Removed Pin From Net: NetName=VCC Pin=DC_DC_5V_2W_1-4
+Added Component: Designator=DC/DC_5V_7.5W(OKI-78SR-5/1.5-W36-C)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V Pin=DC/DC_5V_7.5W-1
+Added Pin To Net: NetName=GND Pin=DC/DC_5V_7.5W-2
+Added Pin To Net: NetName=VCC Pin=DC/DC_5V_7.5W-3
+Added Member To Class: ClassName=Dash Member=Component DC/DC_5V_7.5W OKI-78SR-5/1.5-W36-C

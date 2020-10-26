@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=24V Pin=F1-2
+Added Pin To Net: NetName=24V Pin=F1-1
+Added Pin To Net: NetName=NetH?_23 Pin=H?-23
+Added Pin To Net: NetName=NetH?_23 Pin=MCP-7
+Added Net: Name=NetH?_23
+Added Pin To Net: NetName=NetH?_35 Pin=H?-35
+Added Pin To Net: NetName=NetH?_35 Pin=MCP-6
+Added Net: Name=NetH?_35

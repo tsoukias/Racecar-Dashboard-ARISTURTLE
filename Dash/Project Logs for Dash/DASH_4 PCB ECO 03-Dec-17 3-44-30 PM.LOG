@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetH?_25 Pin=ShutDown-1
+Removed Pin From Net: NetName=NetH?_24 Pin=ShutDown-2
+Added Pin To Net: NetName=NetH?_24 Pin=ShutDown-1
+Added Pin To Net: NetName=NetH?_25 Pin=ShutDown-2

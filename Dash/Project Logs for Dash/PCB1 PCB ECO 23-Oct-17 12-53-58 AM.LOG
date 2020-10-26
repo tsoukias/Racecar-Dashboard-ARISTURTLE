@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BSPD_Signal Pin=6473418-2-20
+Removed Pin From Net: NetName=IMD_Signal Pin=6473418-2-21
+Removed Pin From Net: NetName=BMS_Signal Pin=6473418-2-22
+Change Component Designator: OldDesignator=LED1 NewDesignator=H_P_LED_1
+Change Component Designator: OldDesignator=LED2 NewDesignator=H_P_LED_2
+Change Component Designator: OldDesignator=LED3 NewDesignator=H_P_LED_3
+Added Pin To Net: NetName=BSPD_Signal Pin=6473418-2_1-14
+Added Pin To Net: NetName=IMD_Signal Pin=6473418-2_1-15
+Added Pin To Net: NetName=BMS_Signal Pin=6473418-2_1-16
+Added Room: Name=Dash

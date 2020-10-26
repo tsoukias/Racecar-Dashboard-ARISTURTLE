@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Net6473418-2_1_7 Pin=MCP-6
+Removed Pin From Net: NetName=Net6473418-2_1_10 Pin=MCP-7
+Change Component Comment : Designator=R59 Old Comment=0805 New Comment=805
+Added Pin To Net: NetName=Net6473418-2_4 Pin=MCP-6
+Added Pin To Net: NetName=Net6473418-2_3 Pin=MCP-7
+Added Member To Class: ClassName=Turtlelogger Member=Component SD_connector_smd Kinezos
+Added Room: Name=Dash
+Added Room: Name=Turtlelogger

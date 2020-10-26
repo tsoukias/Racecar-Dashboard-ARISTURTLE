@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=Supply NewDesignator=Supply_LED
+Added Pin To Net: NetName=Net6473418-2_14 Pin=C1-1
+Added Pin To Net: NetName=Net6473418-2_14 Pin=R1-2
+Added Pin To Net: NetName=Net6473418-2_15 Pin=6473418-2-15
+Added Pin To Net: NetName=Net6473418-2_15 Pin=C2-1
+Added Pin To Net: NetName=Net6473418-2_15 Pin=R2-2
+Added Net: Name=Net6473418-2_15
+Added Pin To Net: NetName=Net6473418-2_16 Pin=6473418-2-16
+Added Pin To Net: NetName=Net6473418-2_16 Pin=C3-1
+Added Pin To Net: NetName=Net6473418-2_16 Pin=R3-2
+Added Net: Name=Net6473418-2_16
+Added Pin To Net: NetName=Net6473418-2_17 Pin=6473418-2-17
+Added Pin To Net: NetName=Net6473418-2_17 Pin=C4-1
+Added Pin To Net: NetName=Net6473418-2_17 Pin=R4-2
+Added Net: Name=Net6473418-2_17
+Added Pin To Net: NetName=Net6473418-2_18 Pin=6473418-2-18
+Added Pin To Net: NetName=Net6473418-2_18 Pin=C5-1
+Added Pin To Net: NetName=Net6473418-2_18 Pin=R5-2
+Added Net: Name=Net6473418-2_18
+Added Pin To Net: NetName=Net6473418-2_19 Pin=6473418-2-19
+Added Pin To Net: NetName=Net6473418-2_19 Pin=C6-1
+Added Pin To Net: NetName=Net6473418-2_19 Pin=R6-2
+Added Net: Name=Net6473418-2_19
+Added Room: Name=Dash

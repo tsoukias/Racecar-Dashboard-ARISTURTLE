@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net6473418-2_19 Pin=A8-2
+Removed Pin From Net: NetName=Net6473418-2_13 Pin=A9-2
+Removed Pin From Net: NetName=Net6473418-2_19 Pin=Pinout-10
+Removed Pin From Net: NetName=Net6473418-2_13 Pin=Pinout-11
+Added Pin To Net: NetName=Net6473418-2_13 Pin=A8-2
+Added Pin To Net: NetName=Net6473418-2_19 Pin=A9-2
+Added Pin To Net: NetName=Net6473418-2_13 Pin=Pinout-10
+Added Pin To Net: NetName=Net6473418-2_19 Pin=Pinout-11
+Added Member To Class: ClassName=Dash Member=Component 6473418-2 Automotive Connectors SUPER SEAL 26POS CAP ASSY V AU

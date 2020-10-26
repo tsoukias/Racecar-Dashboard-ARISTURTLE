@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=Pinout-29
+Removed Pin From Net: NetName=NetC10_1 Pin=Pinout-30
+Removed Pin From Net: NetName=NetC11_1 Pin=Pinout-31
+Removed Pin From Net: NetName=NetC12_1 Pin=Pinout-32
+Removed Pin From Net: NetName=NetC13_1 Pin=Pinout-33
+Removed Pin From Net: NetName=NetC14_1 Pin=Pinout-34
+Removed Pin From Net: NetName=NetC15_1 Pin=Pinout-35
+Removed Pin From Net: NetName=NetC16_1 Pin=Pinout-42
+Removed Pin From Net: NetName=NetC17_1 Pin=Pinout-43
+Change Component Designator: OldDesignator=ULN2004ADR1 NewDesignator=ULN2004ADR_1
+Added Component: Designator=DC_DC_5V_2W_1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=DC_DC_5V_2W_1-1
+Added Pin To Net: NetName=24V Pin=DC_DC_5V_2W_1-2
+Added Pin To Net: NetName=GND Pin=DC_DC_5V_2W_1-3
+Added Pin To Net: NetName=VCC Pin=DC_DC_5V_2W_1-4
+Added Pin To Net: NetName=NetC9_1 Pin=Pinout-20
+Added Pin To Net: NetName=NetC10_1 Pin=Pinout-21
+Added Pin To Net: NetName=NetC11_1 Pin=Pinout-22
+Added Pin To Net: NetName=NetC12_1 Pin=Pinout-23
+Added Pin To Net: NetName=NetC13_1 Pin=Pinout-26
+Added Pin To Net: NetName=NetC14_1 Pin=Pinout-27
+Added Pin To Net: NetName=NetC15_1 Pin=Pinout-28
+Added Pin To Net: NetName=NetC16_1 Pin=Pinout-29
+Added Pin To Net: NetName=NetC17_1 Pin=Pinout-30
+Added Pin To Net: NetName=NetPinout_44 Pin=ULN2004ADR2-7
+Added Pin To Net: NetName=NetPinout_31 Pin=Pinout-31
+Added Net: Name=NetPinout_31
+Added Pin To Net: NetName=NetPinout_32 Pin=Pinout-32
+Added Pin To Net: NetName=NetPinout_32 Pin=ULN2004ADR2-1
+Added Net: Name=NetPinout_32
+Added Pin To Net: NetName=NetPinout_33 Pin=Pinout-33
+Added Pin To Net: NetName=NetPinout_33 Pin=ULN2004ADR2-2
+Added Net: Name=NetPinout_33
+Added Pin To Net: NetName=NetPinout_34 Pin=Pinout-34
+Added Pin To Net: NetName=NetPinout_34 Pin=ULN2004ADR2-3
+Added Net: Name=NetPinout_34
+Added Pin To Net: NetName=NetPinout_35 Pin=Pinout-35
+Added Pin To Net: NetName=NetPinout_35 Pin=ULN2004ADR2-4
+Added Net: Name=NetPinout_35
+Added Pin To Net: NetName=NetPinout_42 Pin=Pinout-42
+Added Pin To Net: NetName=NetPinout_42 Pin=ULN2004ADR2-5
+Added Net: Name=NetPinout_42
+Added Pin To Net: NetName=NetPinout_43 Pin=Pinout-43
+Added Pin To Net: NetName=NetPinout_43 Pin=ULN2004ADR2-6
+Added Net: Name=NetPinout_43
+Added Member To Class: ClassName=Dash Member=Component DC_DC_5V_2W_1 RI-2405S
+Added Room: Name=Dash

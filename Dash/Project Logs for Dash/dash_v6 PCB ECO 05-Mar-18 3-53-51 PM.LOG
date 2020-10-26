@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=24V Pin=DC/DC_2-1
+Removed Pin From Net: NetName=GND Pin=DC/DC_2-2
+Removed Pin From Net: NetName=12V Pin=DC/DC_2-3
+Removed Member From Class: ClassName=Dash Member=DC/DC_2
+Added Component: Designator=DC_DC_2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V Pin=DC_DC_2-1
+Added Pin To Net: NetName=GND Pin=DC_DC_2-2
+Added Pin To Net: NetName=12V Pin=DC_DC_2-3
+Change Net Name : Old Net Name=NetFAN1_2 New Net Name=NetFAN_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED2_2
+Added Member To Class: ClassName=Dash Member=Component DC_DC_2 R-78C12-1.0

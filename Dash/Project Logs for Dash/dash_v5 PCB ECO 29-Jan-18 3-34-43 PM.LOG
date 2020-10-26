@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BMS_OR Pin=U1-2
+Removed Pin From Net: NetName=BSPD_OR Pin=U1-4
+Removed Pin From Net: NetName=IMD_OR Pin=U1-7
+Added Pin To Net: NetName=BMS_OR Pin=U1-1
+Added Pin To Net: NetName=IMD_OR Pin=U1-4
+Added Pin To Net: NetName=BSPD_OR Pin=U1-7

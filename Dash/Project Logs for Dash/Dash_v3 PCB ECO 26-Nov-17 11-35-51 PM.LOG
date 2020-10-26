@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetBtn_1 Pin=R11-1
+Removed Pin From Net: NetName=NetBtn_1 Pin=R24-2
+Added Pin To Net: NetName=NetBtn_1 Pin=R17-1
+Added Pin To Net: NetName=NetBtn_1 Pin=R18-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R24-2
+Added Net: Name=NetR11_1

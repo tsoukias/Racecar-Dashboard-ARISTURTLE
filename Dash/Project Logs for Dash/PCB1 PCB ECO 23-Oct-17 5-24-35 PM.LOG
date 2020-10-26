@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=OR2 NewDesignator=OR _GATE_2
+Added Pin To Net: NetName=Net6473418-2_20 Pin=6473418-2-20
+Added Pin To Net: NetName=Net6473418-2_20 Pin=Pinout-18
+Added Net: Name=Net6473418-2_20
+Added Member To Class: ClassName=Dash Member=Component XOR _GATE_2 SN74AHC1G32DBVR
+Added Room: Name=Dash

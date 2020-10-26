@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=24V Pin=DC/DC_5V_7.5W_2-1
+Removed Pin From Net: NetName=GND Pin=DC/DC_5V_7.5W_2-2
+Removed Pin From Net: NetName=VCC_2 Pin=DC/DC_5V_7.5W_2-3
+Removed Member From Class: ClassName=Dash Member=DC/DC_5V_7.5W_2
+Added Component: Designator=U1(WE-FDSM_173010x78)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pm/datasheet/173010378.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InputVoltage"; Value = "7-28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OutputCurrent"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "173010378"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "Aug 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "SIP-3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC_2 Pin=U1-3
+Added Member To Class: ClassName=Dash Member=Component U1 FDSM, 173010378

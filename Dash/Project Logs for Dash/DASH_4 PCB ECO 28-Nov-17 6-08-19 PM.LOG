@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetB1_1 Pin=R47-2
+Removed Pin From Net: NetName=NetB2_1 Pin=R48-2
+Added Pin To Net: NetName=VCC Pin=R47-2
+Added Pin To Net: NetName=VCC Pin=R48-2
+Added Member To Class: ClassName=Dash Member=Component 4-pin-molex-ultra 172316-1104

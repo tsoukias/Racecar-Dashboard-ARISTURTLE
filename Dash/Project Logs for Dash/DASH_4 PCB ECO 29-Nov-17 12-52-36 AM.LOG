@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR12_1 Pin=Steering-1
+Removed Pin From Net: NetName=NetR13_1 Pin=Steering-2
+Removed Pin From Net: NetName=NetR14_1 Pin=Steering-3
+Removed Pin From Net: NetName=NetR15_1 Pin=Steering-4
+Removed Pin From Net: NetName=NetPinout_40 Pin=Steering-6
+Removed Pin From Net: NetName=GND Pin=Steering-10
+Removed Pin From Net: NetName=NetC2_1 Pin=Steering-13
+Added Pin To Net: NetName=GND Pin=Steering-1
+Added Pin To Net: NetName=NetC2_1 Pin=Steering-3
+Added Pin To Net: NetName=NetPinout_40 Pin=Steering-4
+Added Pin To Net: NetName=NetR14_1 Pin=Steering-6
+Added Pin To Net: NetName=NetR15_1 Pin=Steering-10
+Added Pin To Net: NetName=NetR13_1 Pin=Steering-11
+Added Pin To Net: NetName=NetR12_1 Pin=Steering-13

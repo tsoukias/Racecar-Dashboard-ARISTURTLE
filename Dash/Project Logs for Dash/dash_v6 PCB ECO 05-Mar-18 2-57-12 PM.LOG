@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetA13_2 Pin=Main Connector-6
+Removed Pin From Net: NetName=NetA15_2 Pin=Main Connector-14
+Removed Pin From Net: NetName=NetA5_1 Pin=Main Connector-16
+Removed Pin From Net: NetName=NetA7_1 Pin=Main Connector-17
+Removed Pin From Net: NetName=NetA9_2 Pin=Main Connector-18
+Removed Pin From Net: NetName=NetA11_2 Pin=Main Connector-19
+Removed Pin From Net: NetName=IMD_Signal Pin=Main Connector-20
+Removed Pin From Net: NetName=NetA12_2 Pin=Main Connector-25
+Removed Pin From Net: NetName=NetA4_1 Pin=Main Connector-27
+Removed Pin From Net: NetName=NetA6_1 Pin=Main Connector-28
+Removed Pin From Net: NetName=NetA8_2 Pin=Main Connector-29
+Removed Pin From Net: NetName=NetA10_2 Pin=Main Connector-30
+Removed Pin From Net: NetName=BSPD_Signal Pin=Main Connector-31
+Removed Pin From Net: NetName=BMS_Signal Pin=Main Connector-32
+Added Pin To Net: NetName=NetA5_1 Pin=Main Connector-15
+Added Pin To Net: NetName=NetA7_1 Pin=Main Connector-16
+Added Pin To Net: NetName=NetA9_2 Pin=Main Connector-17
+Added Pin To Net: NetName=NetA11_2 Pin=Main Connector-18
+Added Pin To Net: NetName=NetA13_2 Pin=Main Connector-19
+Added Pin To Net: NetName=NetA15_2 Pin=Main Connector-20
+Added Pin To Net: NetName=NetA4_1 Pin=Main Connector-26
+Added Pin To Net: NetName=NetA6_1 Pin=Main Connector-27
+Added Pin To Net: NetName=NetA8_2 Pin=Main Connector-28
+Added Pin To Net: NetName=NetA10_2 Pin=Main Connector-29
+Added Pin To Net: NetName=NetA12_2 Pin=Main Connector-30
+Added Pin To Net: NetName=BSPD_Signal Pin=Main Connector-32
+Added Pin To Net: NetName=IMD_Signal Pin=Main Connector-33
+Added Pin To Net: NetName=BMS_Signal Pin=Main Connector-34
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Main Connector-14
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Pinout-5
+Added Net: Name=NetMain Connector_14
+Added Pin To Net: NetName=NetMain Connector_25 Pin=Main Connector-25
+Added Pin To Net: NetName=NetMain Connector_25 Pin=Pinout-4
+Added Net: Name=NetMain Connector_25

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=Pinout-28
+Added Pin To Net: NetName=NetC8_1 Pin=Pinout-19
+Added Pin To Net: NetName=NetPinout_28 Pin=Pinout-28
+Added Net: Name=NetPinout_28
+Added Room: Name=Dash

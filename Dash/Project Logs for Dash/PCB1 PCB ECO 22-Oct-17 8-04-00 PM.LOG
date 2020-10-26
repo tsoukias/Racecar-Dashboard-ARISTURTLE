@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BSPD_OR Pin=ULN2004ADR_1-1
+Removed Pin From Net: NetName=BMS_OR Pin=ULN2004ADR_1-7
+Added Pin To Net: NetName=BMS_OR Pin=ULN2004ADR_1-1
+Added Pin To Net: NetName=BSPD_OR Pin=ULN2004ADR_1-7
+Added Room: Name=Dash

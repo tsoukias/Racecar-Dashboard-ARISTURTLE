@@ -1,0 +1,59 @@
+Change component parameters: Designator = "R5"; Footprint = "RESC2012X06N"; UniqueID = "\BXIAFTLA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "2012 [0805]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "6-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R5-2
+Added Pin To Net: NetName=NetPinout_32 Pin=ULN2004ADR2-1
+Added Pin To Net: NetName=NetPinout_33 Pin=ULN2004ADR2-2
+Added Pin To Net: NetName=NetPinout_34 Pin=ULN2004ADR2-3
+Added Pin To Net: NetName=NetPinout_35 Pin=ULN2004ADR2-4
+Added Pin To Net: NetName=NetPinout_42 Pin=ULN2004ADR2-5
+Added Pin To Net: NetName=NetPinout_43 Pin=ULN2004ADR2-6
+Added Pin To Net: NetName=GND Pin=ULN2004ADR2-8
+Added Pin To Net: NetName=12V Pin=ULN2004ADR2-9
+Added Pin To Net: NetName=Net2pin-molex_buzzer_1 Pin=ULN2004ADR2-11
+Added Pin To Net: NetName=NetR5_1 Pin=ULN2004ADR2-12
+Added Pin To Net: NetName=NetR4_1 Pin=ULN2004ADR2-13
+Added Pin To Net: NetName=NetR3_1 Pin=ULN2004ADR2-14
+Added Pin To Net: NetName=NetR2_1 Pin=ULN2004ADR2-15
+Added Pin To Net: NetName=NetR1_1 Pin=ULN2004ADR2-16
+Added Member To Class: ClassName=Dash Member=Component C1 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component C2 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component C3 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component C4 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component C5 Cap Pol3
+Added Member To Class: ClassName=Dash Member=Component R1 0805
+Added Member To Class: ClassName=Dash Member=Component R2 0805
+Added Member To Class: ClassName=Dash Member=Component R3 0805
+Added Member To Class: ClassName=Dash Member=Component R4 0805
+Added Member To Class: ClassName=Dash Member=Component R5 0805
+Added Member To Class: ClassName=Dash Member=Component ULN2004ADR2 Darlington Transistors Hi-Vltg Hi-Crnt Darl Transistor Arrays

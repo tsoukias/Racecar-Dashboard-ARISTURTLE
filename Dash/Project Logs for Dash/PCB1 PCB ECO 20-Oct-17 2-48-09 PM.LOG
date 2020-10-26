@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=24V Pin=DC_DC_12V_2W_1-1
+Removed Pin From Net: NetName=GND Pin=DC_DC_12V_2W_1-2
+Removed Pin From Net: NetName=12V Pin=DC_DC_12V_2W_1-3
+Removed Member From Class: ClassName=Dash Member=DC_DC_12V_2W_1
+Added Component: Designator=DC/DC_12V_1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V Pin=DC/DC_12V_1-1
+Added Pin To Net: NetName=GND Pin=DC/DC_12V_1-2
+Added Pin To Net: NetName=12V Pin=DC/DC_12V_1-3
+Added Member To Class: ClassName=Dash Member=Component DC/DC_12V_1 R-7812-0.5

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IMD_OR Pin=ULN2004ADR_1-4
+Removed Pin From Net: NetName=BMS_OR Pin=ULN2004ADR_1-7
+Added Pin To Net: NetName=BMS_OR Pin=ULN2004ADR_1-2
+Added Pin To Net: NetName=IMD_OR Pin=ULN2004ADR_1-5
+Added Room: Name=Dash
+Added Room: Name=Turtlelogger

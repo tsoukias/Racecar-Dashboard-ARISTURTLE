@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=24V Pin=6473418-2-26
+Removed Pin From Net: NetName=Net6473418-2_21 Pin=C2-1
+Removed Pin From Net: NetName=Net6473418-2_22 Pin=C3-1
+Removed Pin From Net: NetName=Net6473418-2_23 Pin=C4-1
+Removed Pin From Net: NetName=Net6473418-2_24 Pin=C5-1
+Removed Pin From Net: NetName=Net6473418-2_25 Pin=C6-1
+Removed Pin From Net: NetName=Net6473418-2_21 Pin=R2-2
+Removed Pin From Net: NetName=Net6473418-2_22 Pin=R3-2
+Removed Pin From Net: NetName=Net6473418-2_23 Pin=R4-2
+Removed Pin From Net: NetName=Net6473418-2_24 Pin=R5-2
+Removed Pin From Net: NetName=Net6473418-2_25 Pin=R6-2
+Added Pin To Net: NetName=24V Pin=6473418-2-20
+Added Pin To Net: NetName=Net6473418-2_21 Pin=C1-1
+Added Pin To Net: NetName=Net6473418-2_22 Pin=C2-1
+Added Pin To Net: NetName=Net6473418-2_23 Pin=C3-1
+Added Pin To Net: NetName=Net6473418-2_24 Pin=C4-1
+Added Pin To Net: NetName=Net6473418-2_25 Pin=C5-1
+Added Pin To Net: NetName=Net6473418-2_21 Pin=R1-2
+Added Pin To Net: NetName=Net6473418-2_22 Pin=R2-2
+Added Pin To Net: NetName=Net6473418-2_23 Pin=R3-2
+Added Pin To Net: NetName=Net6473418-2_24 Pin=R4-2
+Added Pin To Net: NetName=Net6473418-2_25 Pin=R5-2
+Added Pin To Net: NetName=Net6473418-2_26 Pin=6473418-2-26
+Added Pin To Net: NetName=Net6473418-2_26 Pin=C6-1
+Added Pin To Net: NetName=Net6473418-2_26 Pin=R6-2
+Added Net: Name=Net6473418-2_26
+Added Member To Class: ClassName=Dash Member=Component 6473418-2 Automotive Connectors SUPER SEAL 26POS CAP ASSY V AU
+Added Member To Class: ClassName=Dash Member=Component Buffer2 SN74LVC1G126DBVR
+Added Room: Name=Dash

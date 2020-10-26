@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetFB Button_2 Pin=Main Connector-10
+Removed Pin From Net: NetName=NetFB Button_1 Pin=Main Connector-11
+Added Pin To Net: NetName=NetFB Button_1 Pin=Main Connector-10
+Added Pin To Net: NetName=NetFB Button_2 Pin=Main Connector-11

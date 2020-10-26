@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Member From Class: ClassName=Dash Member=C1
+Removed Member From Class: ClassName=Dash Member=C2
+Removed Member From Class: ClassName=Dash Member=C3
+Removed Member From Class: ClassName=Dash Member=C4
+Removed Member From Class: ClassName=Dash Member=C5
+Added Pin To Net: NetName=NetDTL_2 Pin=DTL-2
+Added Pin To Net: NetName=NetDTL_2 Pin=R1-2
+Added Net: Name=NetDTL_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=Steering-13
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=Steering-14
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=Steering-9
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=Steering-5
+Added Net: Name=NetR5_2

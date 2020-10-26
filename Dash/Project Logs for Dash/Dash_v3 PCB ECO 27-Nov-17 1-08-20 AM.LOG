@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_1 Pin=6473418-2-10
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_2 Pin=6473418-2-11
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_2 Pin=Pinout-54
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_1 Pin=Pinout-55
+Added Pin To Net: NetName=Net4-pin-molex-ultra_2 Pin=6473418-2-10
+Added Pin To Net: NetName=Net4-pin-molex-ultra_1 Pin=6473418-2-11
+Added Pin To Net: NetName=Net4-pin-molex-ultra_1 Pin=Pinout-54
+Added Pin To Net: NetName=Net4-pin-molex-ultra_2 Pin=Pinout-55

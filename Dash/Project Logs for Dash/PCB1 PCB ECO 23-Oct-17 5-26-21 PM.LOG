@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Net6473418-2_20 Pin=Pinout-18
+Added Pin To Net: NetName=NetPinout_18 Pin=Pinout-18
+Added Net: Name=NetPinout_18

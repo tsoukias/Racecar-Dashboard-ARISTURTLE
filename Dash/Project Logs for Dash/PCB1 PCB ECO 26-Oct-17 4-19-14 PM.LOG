@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=DC/DC_5V_7.5W-3
+Change Component Designator: OldDesignator=LED1 NewDesignator=H_P_LED_1
+Change Component Designator: OldDesignator=LED2 NewDesignator=H_P_LED_2
+Change Component Designator: OldDesignator=LED3 NewDesignator=H_P_LED_3
+Added Component: Designator=F1(046701.5NRHF)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=F1-1
+Added Pin To Net: NetName=NetDC/DC_5V_7.5W_3 Pin=DC/DC_5V_7.5W-3
+Added Pin To Net: NetName=NetDC/DC_5V_7.5W_3 Pin=F1-2
+Added Net: Name=NetDC/DC_5V_7.5W_3
+Added Member To Class: ClassName=Dash Member=Component F1 046701.5NRHF
+Added Room: Name=Dash

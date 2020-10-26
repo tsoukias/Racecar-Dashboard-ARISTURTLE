@@ -1,0 +1,24 @@
+Added Component: Designator=B1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B3(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=NetB1_2 Pin=B1-4
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=GND Pin=B2-3
+Added Pin To Net: NetName=NetB2_2 Pin=B2-4
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_2 Pin=B3-2
+Added Pin To Net: NetName=NetB3_2 Pin=B3-2
+Added Pin To Net: NetName=GND Pin=B3-3
+Added Pin To Net: NetName=NetB3_2 Pin=B3-4
+Added Member To Class: ClassName=Dash Member=Component B1 R13-405
+Added Member To Class: ClassName=Dash Member=Component B2 R13-405
+Added Member To Class: ClassName=Dash Member=Component B3 R13-405

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=H1-1
+Removed Pin From Net: NetName=BSPD_Signal Pin=H1-5
+Removed Pin From Net: NetName=IMD_Signal Pin=H1-6
+Removed Pin From Net: NetName=BMS_Signal Pin=H1-7
+Removed Pin From Net: NetName=VCC Pin=H1-9
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_2 Pin=H1-10
+Removed Pin From Net: NetName=Net4-pin-molex-ultra_1 Pin=H1-11
+Removed Pin From Net: NetName=GND Pin=H1-13
+Removed Pin From Net: NetName=GND Pin=H1-14
+Removed Pin From Net: NetName=GND Pin=H1-15
+Removed Pin From Net: NetName=GND Pin=H1-17
+Removed Member From Class: ClassName=Dash Member=H1
+Added Component: Designator=H?(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=BSPD_Signal Pin=H?-5
+Added Pin To Net: NetName=IMD_Signal Pin=H?-6
+Added Pin To Net: NetName=BMS_Signal Pin=H?-7
+Added Pin To Net: NetName=VCC Pin=H?-9
+Added Pin To Net: NetName=Net4-pin-molex-ultra_2 Pin=H?-10
+Added Pin To Net: NetName=Net4-pin-molex-ultra_1 Pin=H?-11
+Added Pin To Net: NetName=GND Pin=H?-13
+Added Pin To Net: NetName=GND Pin=H?-14
+Added Pin To Net: NetName=GND Pin=H?-15
+Added Pin To Net: NetName=GND Pin=H?-17
+Added Member To Class: ClassName=Dash Member=Component H? 1-776200-1
+Added Room: Name=Dash
+Added Room: Name=Turtlelogger

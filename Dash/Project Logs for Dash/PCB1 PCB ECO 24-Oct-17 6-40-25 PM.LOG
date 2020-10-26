@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetB3_1 Pin=R9-1
+Removed Pin From Net: NetName=NetB2_1 Pin=R10-1
+Removed Pin From Net: NetName=NetB1_1 Pin=R11-1
+Removed Pin From Net: NetName=NetB1_1 Pin=R24-2
+Removed Pin From Net: NetName=NetB2_1 Pin=R25-2
+Removed Pin From Net: NetName=NetB3_1 Pin=R26-2
+Added Pin To Net: NetName=NetB3_1 Pin=R8-1
+Added Pin To Net: NetName=NetB2_1 Pin=R9-1
+Added Pin To Net: NetName=NetB1_1 Pin=R10-1
+Added Pin To Net: NetName=NetB1_1 Pin=R25-2
+Added Pin To Net: NetName=NetB2_1 Pin=R26-2
+Added Pin To Net: NetName=NetB3_1 Pin=R27-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R24-2
+Added Net: Name=NetR11_1
+Added Room: Name=Dash

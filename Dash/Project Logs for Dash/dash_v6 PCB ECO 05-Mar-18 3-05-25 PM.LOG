@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetDisplay_1 Pin=Display-1
+Removed Pin From Net: NetName=NetDisplay_2 Pin=Display-2
+Removed Pin From Net: NetName=12V Pin=Display-5
+Removed Pin From Net: NetName=VCC_2 Pin=Display-6
+Added Pin To Net: NetName=VCC_2 Pin=Display-1
+Added Pin To Net: NetName=12V Pin=Display-2
+Added Pin To Net: NetName=NetDisplay_2 Pin=Display-3
+Added Pin To Net: NetName=NetDisplay_1 Pin=Display-4
+Change Net Name : Old Net Name=NetDisplay_1 New Net Name=NetDisplay_4
+Change Net Name : Old Net Name=NetDisplay_2 New Net Name=NetDisplay_3
+Added Pin To Net: NetName=NetDisplay_5 Pin=Display-5
+Added Pin To Net: NetName=NetDisplay_5 Pin=Pinout-24
+Added Net: Name=NetDisplay_5
+Added Pin To Net: NetName=NetDisplay_6 Pin=Display-6
+Added Pin To Net: NetName=NetDisplay_6 Pin=Pinout-25
+Added Net: Name=NetDisplay_6

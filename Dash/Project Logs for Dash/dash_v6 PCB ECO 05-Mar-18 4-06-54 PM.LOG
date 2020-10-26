@@ -1,0 +1,6 @@
+Added Component: Designator=buzzer(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Netbuzzer_1 Pin=buzzer-1
+Added Pin To Net: NetName=12V Pin=buzzer-2
+Added Member To Class: ClassName=Dash Member=Component buzzer 105309-1102
+Added Member To Class: ClassName=Dash Member=Component Steering 1-776266-1

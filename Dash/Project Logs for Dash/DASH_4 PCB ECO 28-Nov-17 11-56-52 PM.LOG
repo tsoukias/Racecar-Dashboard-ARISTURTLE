@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=Steering-14
+Removed Pin From Net: NetName=NetR1_1 Pin=ULN2004ADR2-16
+Added Pin To Net: NetName=NetC1_1 Pin=H_P_LED_1-2
+Added Pin To Net: NetName=NetSteering_14 Pin=Steering-14
+Added Net: Name=NetSteering_14
+Added Pin To Net: NetName=NetULN2004ADR2_16 Pin=ULN2004ADR2-16
+Added Net: Name=NetULN2004ADR2_16
+Added Room: Name=Dash
+Added Room: Name=Turtlelogger

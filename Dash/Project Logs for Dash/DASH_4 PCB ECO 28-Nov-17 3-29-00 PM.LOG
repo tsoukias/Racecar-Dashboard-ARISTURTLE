@@ -1,0 +1,50 @@
+Added Pin To Net: NetName=NetA0_1 Pin=A0-1
+Added Pin To Net: NetName=GND Pin=A0-2
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=GND Pin=A1-2
+Added Pin To Net: NetName=NetA2_1 Pin=A2-1
+Added Pin To Net: NetName=GND Pin=A2-2
+Added Pin To Net: NetName=NetA3_1 Pin=A3-1
+Added Pin To Net: NetName=GND Pin=A3-2
+Added Pin To Net: NetName=NetA4_1 Pin=A4-1
+Added Pin To Net: NetName=GND Pin=A4-2
+Added Pin To Net: NetName=NetA5_1 Pin=A5-1
+Added Pin To Net: NetName=GND Pin=A5-2
+Added Pin To Net: NetName=NetA6_1 Pin=A6-1
+Added Pin To Net: NetName=GND Pin=A6-2
+Added Pin To Net: NetName=NetA7_1 Pin=A7-1
+Added Pin To Net: NetName=GND Pin=A7-2
+Added Pin To Net: NetName=GND Pin=A8-1
+Added Pin To Net: NetName=NetA8_2 Pin=A8-2
+Added Pin To Net: NetName=GND Pin=A9-1
+Added Pin To Net: NetName=NetA9_2 Pin=A9-2
+Added Pin To Net: NetName=GND Pin=A10-1
+Added Pin To Net: NetName=NetA10_2 Pin=A10-2
+Added Pin To Net: NetName=GND Pin=A11-1
+Added Pin To Net: NetName=NetA11_2 Pin=A11-2
+Added Pin To Net: NetName=GND Pin=A12-1
+Added Pin To Net: NetName=NetA12_2 Pin=A12-2
+Added Pin To Net: NetName=GND Pin=A13-1
+Added Pin To Net: NetName=NetA13_2 Pin=A13-2
+Added Pin To Net: NetName=GND Pin=A14-1
+Added Pin To Net: NetName=NetA14_2 Pin=A14-2
+Added Pin To Net: NetName=GND Pin=A15-1
+Added Pin To Net: NetName=NetA15_2 Pin=A15-2
+Added Member To Class: ClassName=Dash Member=Component A0 0805
+Added Member To Class: ClassName=Dash Member=Component A1 0805
+Added Member To Class: ClassName=Dash Member=Component A2 0805
+Added Member To Class: ClassName=Dash Member=Component A3 0805
+Added Member To Class: ClassName=Dash Member=Component A4 0805
+Added Member To Class: ClassName=Dash Member=Component A5 0805
+Added Member To Class: ClassName=Dash Member=Component A6 0805
+Added Member To Class: ClassName=Dash Member=Component A7 0805
+Added Member To Class: ClassName=Dash Member=Component A8 0805
+Added Member To Class: ClassName=Dash Member=Component A9 0805
+Added Member To Class: ClassName=Dash Member=Component A10 0805
+Added Member To Class: ClassName=Dash Member=Component A11 0805
+Added Member To Class: ClassName=Dash Member=Component A12 0805
+Added Member To Class: ClassName=Dash Member=Component A13 0805
+Added Member To Class: ClassName=Dash Member=Component A14 0805
+Added Member To Class: ClassName=Dash Member=Component A15 0805
+Added Room: Name=Dash
+Added Room: Name=Turtlelogger

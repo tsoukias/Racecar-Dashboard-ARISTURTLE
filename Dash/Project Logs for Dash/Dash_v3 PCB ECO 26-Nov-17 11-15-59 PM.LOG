@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=Net6473418-2_1_9 Pin=A2-1
+Removed Pin From Net: NetName=Net6473418-2_1_9 Pin=Pinout-4
+Removed Pin From Net: NetName=Net6473418-2_1_10 Pin=Pinout-64
+Added Pin To Net: NetName=Net6473418-2_1_9 Pin=A1-1
+Added Pin To Net: NetName=Net6473418-2_1_10 Pin=A2-1
+Added Pin To Net: NetName=Net6473418-2_1_9 Pin=Pinout-3
+Added Pin To Net: NetName=Net6473418-2_1_10 Pin=Pinout-4
+Added Pin To Net: NetName=Net6473418-2_1_1 Pin=6473418-2_1-1
+Added Pin To Net: NetName=Net6473418-2_1_1 Pin=A3-1
+Added Pin To Net: NetName=Net6473418-2_1_1 Pin=Pinout-5
+Added Net: Name=Net6473418-2_1_1
+Added Pin To Net: NetName=Net6473418-2_1_3 Pin=6473418-2_1-3
+Added Pin To Net: NetName=Net6473418-2_1_3 Pin=Pinout-64
+Added Net: Name=Net6473418-2_1_3
+Added Pin To Net: NetName=Net6473418-2_1_4 Pin=6473418-2_1-4
+Added Pin To Net: NetName=Net6473418-2_1_4 Pin=Pinout-63
+Added Net: Name=Net6473418-2_1_4
+Added Pin To Net: NetName=NetA4_1 Pin=A4-1
+Added Pin To Net: NetName=NetA4_1 Pin=Pinout-6
+Added Net: Name=NetA4_1
+Added Pin To Net: NetName=NetA5_1 Pin=A5-1
+Added Pin To Net: NetName=NetA5_1 Pin=Pinout-7
+Added Net: Name=NetA5_1
+Added Pin To Net: NetName=NetA6_1 Pin=A6-1
+Added Pin To Net: NetName=NetA6_1 Pin=Pinout-8
+Added Net: Name=NetA6_1
+Added Pin To Net: NetName=NetA7_1 Pin=A7-1
+Added Pin To Net: NetName=NetA7_1 Pin=Pinout-9
+Added Net: Name=NetA7_1
+Added Pin To Net: NetName=NetA8_2 Pin=A8-2
+Added Pin To Net: NetName=NetA8_2 Pin=Pinout-10
+Added Net: Name=NetA8_2
+Added Pin To Net: NetName=NetA9_2 Pin=A9-2
+Added Pin To Net: NetName=NetA9_2 Pin=Pinout-11
+Added Net: Name=NetA9_2

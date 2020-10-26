@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetA11_2 Pin=Main Connector-1
+Removed Pin From Net: NetName=NetA10_2 Pin=Main Connector-2
+Removed Pin From Net: NetName=NetA9_2 Pin=Main Connector-3
+Removed Pin From Net: NetName=NetA8_2 Pin=Main Connector-4
+Removed Pin From Net: NetName=NetA7_1 Pin=Main Connector-5
+Removed Pin From Net: NetName=NetA6_1 Pin=Main Connector-6
+Removed Pin From Net: NetName=NetA5_1 Pin=Main Connector-7
+Removed Pin From Net: NetName=NetA4_1 Pin=Main Connector-8
+Removed Pin From Net: NetName=NetA3_1 Pin=Main Connector-9
+Removed Pin From Net: NetName=NetA2_1 Pin=Main Connector-10
+Removed Pin From Net: NetName=NetA1_1 Pin=Main Connector-11
+Removed Pin From Net: NetName=NetA0_1 Pin=Main Connector-12
+Removed Pin From Net: NetName=IMD_Signal Pin=Main Connector-13
+Removed Pin From Net: NetName=BMS_Signal Pin=Main Connector-14
+Removed Pin From Net: NetName=BSPD_Signal Pin=Main Connector-15
+Removed Pin From Net: NetName=12V Pin=Main Connector-16
+Removed Pin From Net: NetName=VCC Pin=Main Connector-17
+Removed Pin From Net: NetName=NetFB Button_1 Pin=Main Connector-31
+Removed Pin From Net: NetName=NetFB Button_2 Pin=Main Connector-32
+Removed Pin From Net: NetName=VCC_2 Pin=Main Connector-33
+Removed Pin From Net: NetName=GND Pin=Main Connector-34
+Removed Pin From Net: NetName=NetMain Connector_21 Pin=Pinout-63
+Removed Pin From Net: NetName=NetMain Connector_22 Pin=Pinout-64
+Removed Pin From Net: NetName=NetMain Connector_24 Pin=ShutdownButton-1
+Added Pin To Net: NetName=NetA1_1 Pin=Main Connector-14
+Added Pin To Net: NetName=NetA3_1 Pin=Main Connector-15
+Added Pin To Net: NetName=NetA5_1 Pin=Main Connector-16
+Added Pin To Net: NetName=NetA7_1 Pin=Main Connector-17
+Added Pin To Net: NetName=NetA9_2 Pin=Main Connector-18
+Added Pin To Net: NetName=NetA11_2 Pin=Main Connector-19
+Added Pin To Net: NetName=IMD_Signal Pin=Main Connector-20
+Added Pin To Net: NetName=NetA0_1 Pin=Main Connector-25
+Added Pin To Net: NetName=NetA2_1 Pin=Main Connector-26
+Added Pin To Net: NetName=NetA4_1 Pin=Main Connector-27
+Added Pin To Net: NetName=NetA6_1 Pin=Main Connector-28
+Added Pin To Net: NetName=NetA8_2 Pin=Main Connector-29
+Added Pin To Net: NetName=NetA10_2 Pin=Main Connector-30
+Added Pin To Net: NetName=BSPD_Signal Pin=Main Connector-31
+Added Pin To Net: NetName=BMS_Signal Pin=Main Connector-32
+Added Pin To Net: NetName=NetMain Connector_24 Pin=Pinout-60
+Added Pin To Net: NetName=NetMain Connector_24 Pin=Programming-10
+Added Pin To Net: NetName=NetMain Connector_21 Pin=ShutdownButton-1
+Added Pin To Net: NetName=NetMain Connector_22 Pin=ShutdownButton-2
+Added Pin To Net: NetName=NetMain Connector_13 Pin=Main Connector-13
+Added Pin To Net: NetName=NetMain Connector_13 Pin=Pinout-59
+Added Pin To Net: NetName=NetMain Connector_13 Pin=Programming-9
+Added Net: Name=NetMain Connector_13
+Added Pin To Net: NetName=NetPinout_58 Pin=Pinout-58
+Added Pin To Net: NetName=NetPinout_58 Pin=Programming-8
+Added Net: Name=NetPinout_58
+Added Pin To Net: NetName=NetPinout_63 Pin=Pinout-63
+Added Net: Name=NetPinout_63
+Added Pin To Net: NetName=NetPinout_64 Pin=Pinout-64
+Added Net: Name=NetPinout_64

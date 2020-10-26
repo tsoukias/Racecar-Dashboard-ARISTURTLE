@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=A15-1
+Removed Member From Class: ClassName=Dash Member=A15
+Added Pin To Net: NetName=NetPinout_17 Pin=Pinout-17
+Added Net: Name=NetPinout_17

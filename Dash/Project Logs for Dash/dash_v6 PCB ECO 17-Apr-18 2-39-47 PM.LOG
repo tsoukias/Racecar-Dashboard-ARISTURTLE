@@ -1,0 +1,5 @@
+Added Component: Designator=ShutdownButton(ShutDownButton)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetMain Connector_35 Pin=ShutdownButton-1
+Added Pin To Net: NetName=NetMain Connector_23 Pin=ShutdownButton-2
+Added Member To Class: ClassName=Dash Member=Component ShutdownButton 84-5030.0020

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VCC Pin=O1-4
+Removed Pin From Net: NetName=BSPD_OR Pin=O1-5
+Removed Pin From Net: NetName=VCC Pin=O2-4
+Removed Pin From Net: NetName=IMD_OR Pin=O2-5
+Removed Pin From Net: NetName=VCC Pin=O3-4
+Removed Pin From Net: NetName=BMS_OR Pin=O3-5
+Removed Pin From Net: NetName=VCC Pin=X1-4
+Removed Pin From Net: NetName=BSPD Pin=X1-5
+Removed Pin From Net: NetName=VCC Pin=X2-4
+Removed Pin From Net: NetName=IMD Pin=X2-5
+Removed Pin From Net: NetName=VCC Pin=X3-4
+Removed Pin From Net: NetName=BMS Pin=X3-5
+Added Pin To Net: NetName=BSPD_OR Pin=O1-4
+Added Pin To Net: NetName=VCC Pin=O1-5
+Added Pin To Net: NetName=IMD_OR Pin=O2-4
+Added Pin To Net: NetName=VCC Pin=O2-5
+Added Pin To Net: NetName=BMS_OR Pin=O3-4
+Added Pin To Net: NetName=VCC Pin=O3-5
+Added Pin To Net: NetName=BSPD Pin=X1-4
+Added Pin To Net: NetName=VCC Pin=X1-5
+Added Pin To Net: NetName=IMD Pin=X2-4
+Added Pin To Net: NetName=VCC Pin=X2-5
+Added Pin To Net: NetName=BMS Pin=X3-4
+Added Pin To Net: NetName=VCC Pin=X3-5
+Added Member To Class: ClassName=Dash Member=Component O1 SN74AHC1G32DBVR
+Added Member To Class: ClassName=Dash Member=Component O2 SN74AHC1G32DBVR
+Added Member To Class: ClassName=Dash Member=Component O3 SN74AHC1G32DBVR

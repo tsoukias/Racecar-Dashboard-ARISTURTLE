@@ -1,0 +1,5 @@
+Added Component: Designator=ShutDown(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH?_24 Pin=ShutDown-1
+Added Pin To Net: NetName=NetH?_25 Pin=ShutDown-2
+Added Member To Class: ClassName=Dash Member=Component ShutDown 105309-1102

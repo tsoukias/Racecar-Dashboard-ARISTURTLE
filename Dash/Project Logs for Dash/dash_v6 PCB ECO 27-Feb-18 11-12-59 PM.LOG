@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=12V Pin=Main Connector-7
+Added Pin To Net: NetName=VCC_2 Pin=Main Connector-21
+Added Pin To Net: NetName=GND Pin=Main Connector-35
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Main Connector-6
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Pinout-58
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Programming-8
+Added Net: Name=NetMain Connector_6

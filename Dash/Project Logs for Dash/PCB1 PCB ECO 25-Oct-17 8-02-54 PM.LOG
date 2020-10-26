@@ -1,0 +1,15 @@
+Added Component: Designator=FAN1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=FAN2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V Pin=FAN1-1
+Added Pin To Net: NetName=GND Pin=FAN1-3
+Added Pin To Net: NetName=24V Pin=FAN2-1
+Added Pin To Net: NetName=GND Pin=FAN2-3
+Added Pin To Net: NetName=NetFAN1_2 Pin=FAN1-2
+Added Pin To Net: NetName=NetFAN1_2 Pin=FAN2-2
+Added Pin To Net: NetName=NetFAN1_2 Pin=Pinout-57
+Added Net: Name=NetFAN1_2
+Added Member To Class: ClassName=Dash Member=Component FAN1 172286-1103
+Added Member To Class: ClassName=Dash Member=Component FAN2 172286-1103
+Added Room: Name=Dash

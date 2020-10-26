@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=DC/DC NewDesignator=DC/DC_1
+Change Component Designator: OldDesignator=DC/DC NewDesignator=DC/DC_2
+Change Component Designator: OldDesignator=DC/DC NewDesignator=DC/DC_3
+Added Member To Class: ClassName=Dash Member=Component DC/DC_1 OKI-78SR-5/1.5-W36-C
+Added Member To Class: ClassName=Dash Member=Component DC/DC_2 R-78C12-1.0
